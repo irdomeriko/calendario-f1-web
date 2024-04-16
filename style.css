@@ -1,0 +1,27 @@
+:root{
+     display: flex;
+     margin: auto;
+     justify-content: center; 
+     font-family: 'Courier New', Courier, monospace;
+ }
+ iframe{
+     border: 5px dashed black;
+     padding-top: 10px;
+     padding-left: 5px;
+     padding-right: 5px;
+     padding-bottom: 3px;
+
+ }
+#Ical{
+
+ border-bottom: 4px dashed darkred;
+ border-right:  4px dashed darkred;
+ border-left:   4px dashed darkred;
+}
+#Text{
+ border-top:   4px dashed darkred;
+ border-right: 4px dashed darkred;
+ border-left:  4px dashed darkred;
+ font-size: 30px;
+
+}
