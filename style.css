@@ -6,7 +6,7 @@
      text-align: center;
      background-color: darkcyan;
     
- }
+    }
 
  iframe{
      border: 5px dashed black;
@@ -35,5 +35,11 @@
 
 #Text_Principio{
     color: #e0dcdc;
+    text-align: center;
+    
 
+}
+
+#Img_F1logo{
+   background-color: darkcyan;
 }
